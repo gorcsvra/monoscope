@@ -1,0 +1,8 @@
+body {
+    background: url(./pictures/monoscope.PNG) ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: contain;
+    background-position: center;
+}
+
